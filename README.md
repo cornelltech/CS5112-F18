@@ -15,6 +15,14 @@ An introduction to some fundamental algorithms and data structures used in curre
 
 Familiarity with basic programming, algorithms and data structures (at the level taught in a sophomore course), or permission of instructor.
 
+### **Course Staff**
+
+Instructors: Ramin Zabih and Greg Zecchini
+
+TA: Richard S. Bowen
+
+Graders/consultants: TBA
+
 ### **Room &amp; Time**
 
 Lecture: Tuesdays and Thursdays, 12:30pm - 1:45pm, Bloomberg Center 131, Cornell Tech
