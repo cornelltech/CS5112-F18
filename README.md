@@ -1,11 +1,4 @@
-#
-## CS5112: Algorithms and Data Structures for Applications
-
-## Fall 2018
-
-## Preliminary syllabus
-
-##
+## Algorithms and Data Structures for Applications ##
 
 ### **Course Description**
 
@@ -30,6 +23,23 @@ Lecture: Tuesdays and Thursdays, 12:30pm - 1:45pm, Bloomberg Center 131, Cornell
 Evening clinics 6:30-8pm on the following Thursdays: 8/23, 8/30, 9/6, 9/20 and 10/4
 
 Class number: 17766
+
+### **Lectures** ###
+
+| *Lecture*                       | *Date*          | *Slides*
+| Lecture 1: Dijkstra's Algorithm | August 23       | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
+
+### **Assignments** ###
+
+All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/web/auth/?courseid=234). Due dates for assignments without CMS links are tentative.
+
+| *Assignment*                       | *Due Date*
+| [Assignment 1: Dijkstra's Algorithm](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2329) | September 6
+| Assignment 2 | September 20
+| Assignment 3 | October 11
+| Assignment 4 | October 25
+| Assignment 5 | November 15
+| Assignment 6 | December 4
 
 ### **Textbooks: none**
 
