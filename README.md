@@ -26,8 +26,37 @@ Class number: 17766
 
 ### **Lectures** ###
 
-| *Lecture*                       | *Date*          | *Slides*
-| Lecture 1: Dijkstra's Algorithm | August 23       | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
+| *Date*                       | *Lecture*          | *Slides*
+|8/23 | Lecture 1: Dijkstra's Algorithm | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
+|8/28 | Lecture 2 |
+|8/30 | Lecture 3 |
+|9/4 | Lecture 4 |
+|9/6 | Lecture 5 |
+|9/11 | Lecture 6 |
+|9/13 | Lecture 7 |
+|9/18 | Lecture 8 |
+|9/20 | Lecture 9 |
+|9/25 | Lecture 10 |
+|9/27 | Lecture 11 |
+|10/2 | Lecture 12 |
+|10/4 | Lecture 13 |
+|10/9 | No lecture (Columbus Day) |
+|10/11 | Lecture 14 |
+|10/16 | Lecture 15 |
+|10/18 | Lecture 16 |
+|10/23 | Lecture 17 |
+|10/25 | **Prelim** |
+|10/30 | Lecture 18 |
+|11/1 | Lecture 19 |
+|11/6 | Lecture 20 |
+|11/8 | Lecture 21 |
+|11/13 | Lecture 22 |
+|11/15 | Lecture 23 | 
+|11/20 | Lecture 24 | 
+|11/22 | No lecture (Thanksgiving)
+|11/27 | Lecture 25 |
+|11/29 | Lecture 26
+|12/4 | **Final** |
 
 ### **Assignments** ###
 
