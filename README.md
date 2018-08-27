@@ -27,6 +27,7 @@ Class number: 17766
 ### **Lectures** ###
 
 | *Date*                       | *Lecture*          | *Slides*
+| ------------- |:-------------:| -----:|
 |8/23 | Lecture 1: Dijkstra's Algorithm | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
 |8/28 | Lecture 2 |
 |8/30 | Lecture 3 |
@@ -63,6 +64,7 @@ Class number: 17766
 All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/web/auth/?courseid=234). Due dates for assignments without CMS links are tentative.
 
 | *Assignment*                       | *Due Date*
+| ------------- |:-------------:
 | [Assignment 1: Dijkstra's Algorithm](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2329) | September 6
 | Assignment 2 | September 20
 | Assignment 3 | October 11
