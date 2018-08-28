@@ -29,7 +29,7 @@ Class number: 17766
 | *Date*                       | *Lecture*          | *Slides*
 | ------------- |:-------------:| -----:|
 |8/23 | Lecture 1: Dijkstra's Algorithm | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
-|8/28 | Lecture 2 |
+|8/28 | Lecture 2: Cryptocurrency Intro | [PDF](Lectures/Lecture%202.pdf), [Powerpoint](Lectures/Lecture%202.pptx)
 |8/30 | Lecture 3 |
 |9/4 | Lecture 4 |
 |9/6 | Lecture 5 |
