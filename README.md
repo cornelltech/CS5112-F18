@@ -16,6 +16,10 @@ TA: Richard S. Bowen
 
 Graders/consultants: TBA
 
+### **Communication**
+
+Please join our [slack workspace](https://join.slack.com/t/cs5112fall18/signup) (must use an @cornell.edu email address). The #announce channel on that workspace is the channel by which we will distribute all course information.
+
 ### **Room &amp; Time**
 
 Lecture: Tuesdays and Thursdays, 12:30pm - 1:45pm, Bloomberg Center 131, Cornell Tech
