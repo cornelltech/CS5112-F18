@@ -35,8 +35,8 @@ Class number: 17766
 |8/23 | Lecture 1: Dijkstra's Algorithm | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
 |8/28 | Lecture 2: Cryptocurrency Intro | [PDF](Lectures/Lecture%202.pdf), [Powerpoint](Lectures/Lecture%202.pptx)
 |8/30 | Lecture 3: Hashing | [PDF](Lectures/Lec3-hashing.pdf), [Powerpoint](Lectures/Lec3-hashing.pptx)
-|9/4 | Lecture 4 |
-|9/6 | Lecture 5 |
+|9/4 | Lecture 4.1: Hashing Applications<br/>Lecture 4.2: Consensus Algorithms (Proof of Work)|[PDF](Lectures/Lec4.1-hashing-applications.pdf), [Powerpoint](Lectures/Lec4.1-hashing-applications.pptx)<br/>[PDF](Lectures/Lecture%204.2%20-%20Consensus%20Algorithms%20(Proof%20of%20Work).pdf), [Powerpoint](Lectures/Lecture%204.2%20-%20Consensus%20Algorithms%20(Proof%20of%20Work).pptx)
+|9/6 | Lecture 5: Consensus Algorithms (Proof of Work cont.) |[PDF](Lectures/Lecture%205%20-%20Consensus%20Algorithms%20(Proof%20of%20Work%20cont.).pdf), [Powerpoint](Lectures/Lecture%205%20-%20Consensus%20Algorithms%20(Proof%20of%20Work%20cont.).pptx)
 |9/11 | Lecture 6 |
 |9/13 | Lecture 7 |
 |9/18 | Lecture 8 |
