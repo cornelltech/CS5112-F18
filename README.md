@@ -70,7 +70,7 @@ All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/we
 | *Assignment*                       | *Due Date*
 | ------------- |:-------------:
 | [Assignment 1: Dijkstra's Algorithm](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2329) | September 6
-| Assignment 2 | September 20
+| [Assignment 2: HashTables and Bloom Filters](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2478) | September 20
 | Assignment 3 | October 11
 | Assignment 4 | October 25
 | Assignment 5 | November 15
