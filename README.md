@@ -39,7 +39,7 @@ Class number: 17766
 |9/6 | Lecture 5: Consensus Algorithms (Proof of Work cont.) |[PDF](Lectures/Lecture%205%20-%20Consensus%20Algorithms%20(Proof%20of%20Work%20cont.).pdf), [Powerpoint](Lectures/Lecture%205%20-%20Consensus%20Algorithms%20(Proof%20of%20Work%20cont.).pptx)
 |9/11 | Lecture 6: Consensus Algorithms (Paxos) |[PDF](Lectures/Lecture%206%20-%20Consensus%20Algorithms%20(Paxos).pdf), [Powerpoint](Lectures/Lecture%206%20-%20Consensus%20Algorithms%20(Paxos).pptx)
 |9/13 | Lecture 7: Some Distributed Applications | [PDF](Lectures/Lec7-chord.pdf), [Powerpoint](Lectures/Lec7-chord.pptx)
-|9/18 | Lecture 8 |
+|9/18 | Lecture 8: Distributed Applications continued; bits |[PDF](Lectures/Lec8-bits.pdf), [Keynote](Lectures/Lec8-bits.key)
 |9/20 | Lecture 9 |
 |9/25 | Lecture 10 |
 |9/27 | Lecture 11 |
