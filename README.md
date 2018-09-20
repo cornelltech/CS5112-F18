@@ -41,6 +41,7 @@ Class number: 17766
 |9/13 | Lecture 7: Some Distributed Applications | [PDF](Lectures/Lec7-chord.pdf), [Powerpoint](Lectures/Lec7-chord.pptx)
 |9/18 | Lecture 8: Distributed Applications continued; bits |[PDF](Lectures/Lec8-bits.pdf), [Keynote](Lectures/Lec8-bits.key)
 |9/20 | Lecture 9 |
+|9/20 | Clinic: Readability, Testing | [PDF](Lectures/clinic_readability.pdf), [Keynote](Lectures/clinic_readability.key)
 |9/25 | Lecture 10 |
 |9/27 | Lecture 11 |
 |10/2 | Lecture 12 |
