@@ -42,7 +42,7 @@ Class number: 17766
 |9/18 | Lecture 8: Distributed Applications continued; bits |[PDF](Lectures/Lec8-bits.pdf), [Keynote](Lectures/Lec8-bits.key)
 |9/20 | Lecture 9 |
 |9/20 | Clinic: Readability, Testing | [PDF](Lectures/clinic_readability.pdf), [Keynote](Lectures/clinic_readability.key)
-|9/25 | Lecture 10: Universal hashing, nearest neighbots | [PDF](Lectures/Lec10-universal-hashing.pdf), [PPT](Lectures/Lec10-universal-hashing.ppt)
+|9/25 | Lecture 10: Universal hashing, nearest neighbots | [PDF](Lectures/Lec10-universal-hashing.pdf), [Powerpoint](Lectures/Lec10-universal-hashing.ppt)
 |9/27 | Lecture 11 |
 |10/2 | Lecture 12 |
 |10/4 | Lecture 13 |
