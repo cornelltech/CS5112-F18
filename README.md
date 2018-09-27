@@ -40,7 +40,7 @@ Class number: 17766
 |9/11 | Lecture 6: Consensus Algorithms (Paxos) |[PDF](Lectures/Lecture%206%20-%20Consensus%20Algorithms%20(Paxos).pdf), [Powerpoint](Lectures/Lecture%206%20-%20Consensus%20Algorithms%20(Paxos).pptx)
 |9/13 | Lecture 7: Some Distributed Applications | [PDF](Lectures/Lec7-chord.pdf), [Powerpoint](Lectures/Lec7-chord.pptx)
 |9/18 | Lecture 8: Distributed Applications continued; bits |[PDF](Lectures/Lec8-bits.pdf), [Keynote](Lectures/Lec8-bits.key)
-|9/20 | Lecture 9: Smart contracts (Ari Juels guest lecture) | [PDF](Lectures/JekyllHyde-lecture 2018.small.pdf)
+|9/20 | Lecture 9: Smart contracts (Ari Juels guest lecture) | [PDF](Lectures/JekyllHyde-lecture-2018.small.pdf)
 |9/20 | Clinic: Readability, Testing | [PDF](Lectures/clinic_readability.pdf), [Keynote](Lectures/clinic_readability.key)
 |9/25 | Lecture 10: Universal hashing, nearest neighbors | [PDF](Lectures/Lec10-universal-hashing.pdf), [Powerpoint](Lectures/Lec10-universal-hashing.ppt)
 |9/27 | Lecture 11: Density estimation | [PDF](Lectures/Lec11.NN-density-estimation.pdf), [Powerpoint](Lectures/Lec11.NN-density-estimation.ppt)
