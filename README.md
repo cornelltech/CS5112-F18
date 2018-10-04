@@ -45,12 +45,12 @@ Class number: 17766
 |9/25 | Lecture 10: Universal hashing, nearest neighbors | [PDF](Lectures/Lec10-universal-hashing.pdf), [Powerpoint](Lectures/Lec10-universal-hashing.ppt)
 |9/27 | Lecture 11: Density estimation | [PDF](Lectures/Lec11.NN-density-estimation.pdf), [Powerpoint](Lectures/Lec11.NN-density-estimation.ppt)
 |10/2 | Lecture 12: Exact Nearest Neighbor Algorithms | [PDF](Lectures/Lecture%2012%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx)
-|10/4 | Lecture 13 |
+|10/4 | Lecture 13: Approximate streaming algorithms | [PDF](Lectures/Lec13.approximate-methods.given.pdf), [Powerpoint](Lectures/Lec13.approximate-methods.given.ppt)
 |10/9 | No lecture (Columbus Day) |
 |10/11 | Lecture 14 |
 |10/16 | Lecture 15 |
 |10/18 | Lecture 16 |
-|10/23 | Lecture 17 |
+|10/23 | Lecture 17: prelim review |
 |10/25 | **Prelim** |
 |10/30 | Lecture 18 |
 |11/1 | Lecture 19 |
