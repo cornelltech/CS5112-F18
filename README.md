@@ -42,12 +42,12 @@ Class number: 17766
 |9/18 | Lecture 8: Distributed Applications continued; bits |[PDF](Lectures/Lec8-bits.pdf), [Keynote](Lectures/Lec8-bits.key)
 |9/20 | Lecture 9: Smart contracts (Ari Juels guest lecture) | [PDF](Lectures/JekyllHyde-lecture-2018.small.pdf)
 |9/20 | Clinic: Readability, Testing | [PDF](Lectures/clinic_readability.pdf), [Keynote](Lectures/clinic_readability.key)
-|9/25 | Lecture 10: Universal hashing, nearest neighbors | [PDF](Lectures/Lec10-universal-hashing.pdf), [Powerpoint](Lectures/Lec10-universal-hashing.ppt)
-|9/27 | Lecture 11: Density estimation | [PDF](Lectures/Lec11.NN-density-estimation.pdf), [Powerpoint](Lectures/Lec11.NN-density-estimation.ppt)
+|9/25 | Lecture 10: Universal hashing, nearest neighbors | [PDF](Lectures/Lec10-universal-hashing.pdf), [Powerpoint](Lectures/Lec10-universal-hashing.pptx)
+|9/27 | Lecture 11: Density estimation | [PDF](Lectures/Lec11.NN-density-estimation.pdf), [Powerpoint](Lectures/Lec11.NN-density-estimation.pptx)
 |10/2 | Lecture 12: Exact Nearest Neighbor Algorithms | [PDF](Lectures/Lecture%2012%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx)
-|10/4 | Lecture 13: Streaming algorithms | [PDF](Lectures/Lec13.approximate-methods.given.pdf), [Powerpoint](Lectures/Lec13.approximate-methods.given.ppt)
+|10/4 | Lecture 13: Streaming algorithms | [PDF](Lectures/Lec13.approximate-methods.given.pdf), [Powerpoint](Lectures/Lec13.approximate-methods.given.pptx)
 |10/9 | No lecture (Columbus Day) |
-|10/11 | Lecture 14 |
+|10/11 | Lecture 14: convolution | [PDF](Lectures/Lec14.convolution.pdf), [Powerpoint](Lectures/Lec14.convolution.pptx)
 |10/16 | Lecture 15 |
 |10/18 | Lecture 16 |
 |10/23 | Lecture 17: prelim review |
