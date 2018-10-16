@@ -48,7 +48,7 @@ Class number: 17766
 |10/4 | Lecture 13: Streaming algorithms | [PDF](Lectures/Lec13.approximate-methods.given.pdf), [Powerpoint](Lectures/Lec13.approximate-methods.given.pptx)
 |10/9 | No lecture (Columbus Day) |
 |10/11 | Lecture 14: convolution | [PDF](Lectures/Lec14.convolution.pdf), [Powerpoint](Lectures/Lec14.convolution.pptx)
-|10/16 | Lecture 15 |
+|10/16 | Lecture 15: Dynamic Programming | [PDF](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pptx)
 |10/18 | Lecture 16 |
 |10/23 | Lecture 17: prelim review |
 |10/25 | **Prelim** |
