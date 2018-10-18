@@ -49,7 +49,7 @@ Class number: 17766
 |10/9 | No lecture (Columbus Day) |
 |10/11 | Lecture 14: convolution | [PDF](Lectures/Lec14.convolution.pdf), [Powerpoint](Lectures/Lec14.convolution.pptx)
 |10/16 | Lecture 15: Dynamic Programming | [PDF](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pptx)
-|10/18 | Lecture 16 |
+|10/18 | Lecture 16: Dynamic Programming (Part 2) | [PDF](Lectures/Lecture%2016%20-%20Dynamic%20Programming%20(Part%202).pdf), [Powerpoint](Lectures/Lecture%2016%20-%20Dynamic%20Programming%20(Part%202).pptx)
 |10/23 | Lecture 17: prelim review |
 |10/25 | **Prelim** |
 |10/30 | Lecture 18 |
