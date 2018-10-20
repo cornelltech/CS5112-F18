@@ -61,7 +61,7 @@ Class number: 17766
 |11/20 | Lecture 24 | 
 |11/22 | No lecture (Thanksgiving)
 |11/27 | Lecture 25 |
-|11/29 | Lecture 26
+|11/29 | Lecture 26: final review |
 |12/4 | **Final** |
 
 ### **Assignments** ###
