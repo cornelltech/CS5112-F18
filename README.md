@@ -50,8 +50,8 @@ Class number: 17766
 |10/11 | Lecture 14: Convolution | [PDF](Lectures/Lec14.convolution.pdf), [Powerpoint](Lectures/Lec14.convolution.pptx)
 |10/16 | Lecture 15: Dynamic Programming | [PDF](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pptx)
 |10/18 | Lecture 16: Dynamic Programming (Part 2) | [PDF](Lectures/Lecture%2016%20-%20Dynamic%20Programming%20(Part%202).pdf), [Powerpoint](Lectures/Lecture%2016%20-%20Dynamic%20Programming%20(Part%202).pptx)
-|10/23 | Lecture 17: prelim review |
-|10/25 | **Prelim** |
+|10/23 | Lecture 17: exam review |
+|10/25 | **Exam (prelim)** |
 |10/30 | Lecture 18 |
 |11/1 | Lecture 19 |
 |11/6 | Lecture 20 |
@@ -61,8 +61,8 @@ Class number: 17766
 |11/20 | Lecture 24 | 
 |11/22 | No lecture (Thanksgiving)
 |11/27 | Lecture 25 |
-|11/29 | Lecture 26: final review |
-|12/4 | **Final** |
+|11/29 | Lecture 26: exam review |
+|12/4 | **Exam (final)** |
 
 ### **Assignments** ###
 
