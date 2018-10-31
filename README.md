@@ -26,6 +26,13 @@ Lecture: Tuesdays and Thursdays, 12:30pm - 1:45pm, Bloomberg Center 131, Cornell
 
 Evening clinics 6:30-8pm on the following Thursdays: 8/23, 8/30, 9/6, 9/20 and 10/4
 
+Office hours:
+
+ * Tuesdays 11:30-12:30 in Bloomberg 277 with Julia
+ * Wednesdays 2:30-3:30 in Bloomberg 277 with Iris
+ * Wednesdays 3:30-4:30 in Bloomberg 277 with Ishan
+ * Thursdays 10-12 in Bloomberg 267 with Fei 
+
 Class number: 17766
 
 ### **Lectures** ###
