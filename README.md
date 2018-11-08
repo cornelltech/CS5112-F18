@@ -62,7 +62,7 @@ Class number: 17766
 |10/30 | Lecture 18: Locality-sensitive hashing | [PDF](Lectures/Lec18.LSH.pdf), [Powerpoint](Lectures/Lec18.LSH.pptx)
 |11/1 | Lecture 19: association rules | [PDF](Lectures/Lec19.association-rules.pdf), [Powerpoint](Lectures/Lec19.association-rules.pptx)
 |11/6 | Lecture 20: Image segmentation | [PDF](Lectures/Lec20.image-segmentation.given.pdf), [Powerpoint](Lectures/Lec20.image-segmentation.given.pptx)
-|11/8 | Lecture 21 |
+|11/8 | Lecture 21 | [PDF](Lectures/Lec21.robust-images.final.pdf), [Powerpoint](Lectures/Lec21.robust-images.final.pptx)
 |11/13 | Lecture 22 |
 |11/15 | Lecture 23 | 
 |11/20 | Lecture 24 | 
