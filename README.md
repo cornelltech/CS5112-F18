@@ -80,7 +80,7 @@ All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/we
 | [Assignment 1: Dijkstra's Algorithm](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2329) | September 6
 | [Assignment 2: HashTables and Bloom Filters](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2478) | September 20
 | [Assignment 3: Boyer Moore and Huffman Coding](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2873) | October 23
-| [Assignment 4: Dynamic Programming](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=3207)
+| [Assignment 4: Dynamic Programming](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=3207) | November 29
 
 
 ### **Textbooks: none**
