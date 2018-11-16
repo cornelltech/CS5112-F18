@@ -64,7 +64,7 @@ Class number: 17766
 |11/6 | Lecture 20: Image segmentation | [PDF](Lectures/Lec20.image-segmentation.given.pdf), [Powerpoint](Lectures/Lec20.image-segmentation.given.pptx)
 |11/8 | Lecture 21: robust methods | [PDF](Lectures/Lec21.robust-images.final.pdf), [Powerpoint](Lectures/Lec21.robust-images.final.pptx)
 |11/13 | Lecture 22: Union-Find | [PDF](Lectures/Lecture%2022%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Union-Find.pptx)
-|11/15 | Lecture 23 | 
+|11/15 | Lecture 23: Max Flow / Min Cut | [PDF](Lectures/Lecture%2023%20-%20Max%20Flow%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%2023%20-%20Max%20Flow%20Min%20Cut.pptx)
 |11/20 | Lecture 24 | 
 |11/22 | No lecture (Thanksgiving)
 |11/27 | Lecture 25 |
