@@ -12,7 +12,7 @@ Familiarity with basic programming, algorithms and data structures (at the level
 
 Instructors: Ramin Zabih and Greg Zecchini
 
-TA: Richard S. Bowen; Irene Pabst, Neil Adit
+TA: Richard S. Bowen; Irena Pabst, Neil Adit
 
 Graders/consultants: Fei Li, Julia Narakornpichit, Ishan Virk, Iris Zhang 
 
