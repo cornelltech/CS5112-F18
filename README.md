@@ -68,7 +68,7 @@ Class number: 17766
 |11/20 | Lecture 24 |
 |11/22 | No lecture (Thanksgiving)
 |11/27 | Lecture 25: Max flow for computer vision [Microsoft blog post](https://www.microsoft.com/en-us/research/blog/group-shot-getting-everyone-smile/) | [PDF](Lectures/Lec24.max-flow-vision.pdf), [Powerpoint](Lectures/Lec24.max-flow-vision.pptx)  |
-|11/29 | Lecture 26: exam review |
+|11/29 | Lecture 26: Exam review |
 |12/4 | **Exam (final)** |
 
 ### **Assignments** ###
