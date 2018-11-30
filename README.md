@@ -65,7 +65,7 @@ Class number: 17766
 |11/8 | Lecture 21: Robust methods | [PDF](Lectures/Lec21.robust-images.final.pdf), [Powerpoint](Lectures/Lec21.robust-images.final.pptx)
 |11/13 | Lecture 22: Union-Find | [PDF](Lectures/Lecture%2022%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Union-Find.pptx)
 |11/15 | Lecture 23: Max Flow / Min Cut | [PDF](Lectures/Lecture%2023%20-%20Max%20Flow%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%2023%20-%20Max%20Flow%20Min%20Cut.pptx)
-|11/20 | Lecture 24 |
+|11/20 | Lecture 24: Intro to Complexity Theory | [PDF](Lectures/Lecture%2024%20-%20Intro%20to%20Complexity%20Theory.pdf), [Powerpoint](Lectures/Lecture%2024%20-%20Intro%20to%20Complexity%20Theory.pptx)
 |11/22 | No lecture (Thanksgiving)
 |11/27 | Lecture 25: Max flow for computer vision [Microsoft blog post](https://www.microsoft.com/en-us/research/blog/group-shot-getting-everyone-smile/) | [PDF](Lectures/Lec24.max-flow-vision.pdf), [Powerpoint](Lectures/Lec24.max-flow-vision.pptx)  |
 |11/29 | Lecture 26: Exam review |
